@@ -81,17 +81,18 @@ img{
 }
 ul{
     display: inline-block;
-    text-align: left;
+    text-align: center;
 }
 ol{
     display: inline-block;
-    text-align: left;
+    text-align: center;
 }
 ul{
     width: fit-content;
     margin: 0 auto;
     text-align: center;
 }
+
 
 
 
